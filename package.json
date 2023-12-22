@@ -7,7 +7,8 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
-    "elysia": "latest"
+    "elysia": "latest",
+    "langchain": "^0.0.211"
   },
   "devDependencies": {
     "bun-types": "latest"
